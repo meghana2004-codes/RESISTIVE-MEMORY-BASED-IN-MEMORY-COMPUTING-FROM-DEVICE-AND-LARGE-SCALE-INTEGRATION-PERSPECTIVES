@@ -1,0 +1,2 @@
+# RESISTIVE-MEMORY-BASED-IN-MEMORY-COMPUTING-FROM-DEVICE-AND-LARGE-SCALE-INTEGRATION-PERSPECTIVES
+Developed an RRAM-based in-memory computing architecture using VLSI techniques to reduce power consumption, latency, and data transfer overhead in conventional systems. Studied resistive memory behavior, CMOS integration, and memory array design for efficient low-power and high-performance computing applications.
